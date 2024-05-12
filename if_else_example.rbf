@@ -1,0 +1,12 @@
+go
+
+number a = 5;
+number b = 2;
+
+display(a);
+display(b);
+
+
+kaf(a nql b ){
+        display(" a b'ye eşit değildir" );
+}

@@ -1,0 +1,9 @@
+go
+
+d = 6;
+repeat (d < 7) {
+        display(d);
+        d = d + 1;
+}
+
+stop

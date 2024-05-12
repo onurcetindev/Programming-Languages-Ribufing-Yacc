@@ -1,0 +1,13 @@
+go
+		// Simple PL with statement-by-statement execution and Comment : Total 10 points
+
+display("a'nın değeri");
+number a = 5;
+display(a);
+number b = 6;
+display("b'nin değeri");
+display(b);
+display("a+b:");
+display(a+b);
+
+stop

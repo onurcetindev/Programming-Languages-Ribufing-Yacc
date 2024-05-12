@@ -1,0 +1,13 @@
+go 
+
+func a(){	// Write function : Total 5 points
+  number a = 2 ; 
+  number b = 7 ;
+  number c = a+b ; 
+ 	display(a);
+	display(b); 
+	display(c);
+	
+}
+
+stop

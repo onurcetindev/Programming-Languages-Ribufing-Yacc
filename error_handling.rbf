@@ -1,0 +1,10 @@
+go
+
+		//Exception handling : Total 5 points 
+number a = 5;
+number b = 0;
+
+display(a/b);
+
+.
+stop
